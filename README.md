@@ -4,7 +4,7 @@
 - 🌱 Sou discente de Eng. de controle e automação
 - 🤔 Tentando parar pra estudar JS
 - 📫 Estou disponível em: mmc.eai21@uea.edu.br
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 
